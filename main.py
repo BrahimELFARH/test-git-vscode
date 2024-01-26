@@ -20,3 +20,4 @@ elif num > 1:
     else:
         print(num, "is a prime number")
     #Ajout commentaire test pour étape 6
+    #Changement pour test étape 7
